@@ -1,4 +1,4 @@
 Android_crud
 ============
 
-project android crud de lista de contatos
+project android crud, lista de contatos
